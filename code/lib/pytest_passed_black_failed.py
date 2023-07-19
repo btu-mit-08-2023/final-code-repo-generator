@@ -1,3 +1,4 @@
+# pytest_passed_black_failed
 class QuadraticEquationSolver:
     def __init__(self, a, b, c):
         self.a = a
